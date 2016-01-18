@@ -20,6 +20,7 @@
   ],
   "Files": [
     "oltest1_ems/**/*.md",
+    "oltest1_ems/*.md"
   ],
   "IncludeDependencies": true,
   "AutoPush": true
