@@ -19,13 +19,7 @@
     "zh-TW"
   ],
   "Files": [
-    "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Active_Directory_Premium.md",
-    "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Rights_Management.md",
-    "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Enterprise_Mobility_Suite.md",
-    "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Intune.md",
-    "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md",
-    "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md",
-    "oltest1_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Intune.md"
+    "oltest1_ems/**/*.md",
   ],
   "IncludeDependencies": true,
   "AutoPush": true
